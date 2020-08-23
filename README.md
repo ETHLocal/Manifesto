@@ -1,0 +1,2 @@
+# Manifesto
+ETHLocal Intent Declaration
