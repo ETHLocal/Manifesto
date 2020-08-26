@@ -8,25 +8,33 @@ Crypto ❤️ Grassroots**
 </br>
 **Origin**  
   
-ETHLocal is the natural development of the premises under which the ETHTurin Hackathon was held by: directing some of the focus of the Ethereum Community towards projects of Circular Economy and Grassroot Movements around the world that are helping re-shape our cities and lifestyles.
-As the ETHTurin came to an end in April 2020, it became clear that the Ethereum Community could use a dedicated network to connect with established associations and coops active in urban and social requalification, art collectives, conscious tourism players, permaculture hubs, and integrate their know-how in bootstrapping bottom-up projects with a crypto use case.
+ETHLocal is the natural development of the premises under which the ETHTurin Hackathon was held by: 
+directing some of the focus of the Ethereum Community towards those Grassroot Movements around the world that are helping re-shape our cities and lifestyles. 
+As the ETHTurin came to an end in April 2020, it became clear that the Ethereum Community could use a dedicated network to connect with the established associations and coops active in urban and social requalification and circular economy, art collectives, conscious tourism players, permaculture hubs, and integrate their know-how in bootstrapping bottom-up projects with a crypto use case.
 </br>
 </br>
 </br>
 **Mission**  
   
-Grassroot communities are restructuring production and society with the same intensity and the same spirit for decentralization the Ethereum and blockchain community are putting in re-organizing the Internet, its governance and funding mechanisms.
+Grassroot communities are restructuring production and society with the same intensity and the same spirit for decentralization the Ethereum and the blockchain community are putting in re-organizing the Internet, its governance and funding mechanisms. 
 
 <a href="https://imgur.com/YexDeE0"><img src="https://i.imgur.com/YexDeE0.jpg" title="source: imgur.com" /></a>
 
-By re-discovering traditional paradigms of social organisation (e.g. urban gardens) and improving them with the use of innovative and open-source mechanism designs (e.g. Arduino chemical and weather control units), these players are helping establish new lifestyle paradigms. Unfortunately, sustainability projects around the world are too often limited to the societary and legislation frameworks of their region or country, making it difficult to reach wider pools of adopters and interact with twin initiatives. Thus, their focus is placed entirely on impacting their local communities and taken away from learning and harnessing, for example, the tools the Blockchain and Ethereum have to offer them in terms of funding, governance and business viability.
-ETHLocal contributes to a "local adoption" pace to crypto, by breaking the "mass adoption" agenda into smaller use cases that can feed into pre-existing and self-sustainable social innovation environments.
+By re-discovering traditional paradigms of social organisation (e.g. urban gardens) and improving them with the use of innovative and open-source mechanism designs (e.g. Arduino chemical and weather control units), these players are helping establish new lifestyle paradigms. Unfortunately, sustainability projects around the world are too often limited to the societary and legislation frameworks of their region or country, making it difficult to reach wider pools of adopters and interact with twin initiatives. Thus, their focus ends up being placed entirely on impacting their local communities, while little or none is left to learn and harness the tools that, for example, Blockchain and Ethereum have to offer them in terms of funding, governance and business viability.
+<br>
+<strong>ETHLocal contributes to a "local adoption" pace to crypto, by breaking the "mass adoption" agenda into smaller use cases that can feed into pre-existing and self-sustainable social innovation environments.</strong>
+<br>
 By balancing on local hubs that have already impacted their territory, Ethereum will be able to strengthen its presence amongst diverse political environments, each with their own legal frameworks and bureaucratic constraints, test and improve partnerships with local public administrations and institutions.
-We find relevant examples of the importance of "going local" in France's complementary local currencies and Sardinia's SARDEX, a successful alt-coin project (established as early as 2009) meant to provide a compensation chamber for member-businesses who belonged to the same territory (and share the same offline trust network) in times of high mutual debting.
-As a result to these considerations, ETHLocal's mission articulates itself around three main goals:
-1) a healthier financial status for those grassroot initiatives willing to approach decentralized governance and finance.
-2) a network of proofs of concept to iterate upon.
-3) a network of "residences" for the Ethereum Community to discover, collaborate with and build upon.
+We find relevant examples of the importance of "going local" in France's complementary local currencies and Sardinia's SARDEX, a successful alt-coin project (established as early as 2009) meant to provide a compensation chamber for member-businesses who belonged to the same territory (and share the same offline trust network) in times of high mutual debting.<br>
+<br>
+**As a result to these considerations, ETHLocal's mission articulates itself around FIVE MAIN GOALS:<br>
+A. Develop partnerships, assist OPS and fundraising around projects with a local and sustainability scope <br> 
+B. Organize and assist Ethereum events with a local Call <br>
+C. Empower a healthier financial status for those grassroot initiatives willing to approach <br>
+decentralized governance and finance <br>
+D. Develop a network of proofs of concept to iterate upon <br>
+E. Weave a network of "residences" for the Ethereum Community to discover, <br>
+collaborate with and build upon**
 </br>
 </br>
 </br>
@@ -42,8 +50,7 @@ ETHLocal places itself ideally as a crew-holon bridge between the Ethereum ecosy
 **ETHLocal Decentralized Flexible Organization (DFO)
 and LOCAL Token**  
   
-ETHLocal financial governance is at R&D stage and represented by a Decentralized Flexible Organization founded via dfohub.com.
-The specific DFO structure setup allows ETHLocal to have all the basic features of a DAO without being owned by anyone in particular. It also allows modular micro-services to be applied to its governance system by direct implementation as well as importing from other DFOs.
+ETHLocal's governance is based on a Decentralized Flexible Organization (NO INVESTMENT, PURE R&D) founded at dfohub.com The specific DFO structure setup allows ETHLocal to have all the basic features of a DAO without the constraints of a single ownership. It also allows modular micro-services to be applied to its governance system by direct implementation as well as importing from other DFOs.
 10,000,000 LOCAL ERC20 Voting Tokens were created, 50% of which are held by ETHLocal DFO Wallet and 50% are kept as circulating supply for grants and genesis airdrops.
 LOCAL ERC20 tokens represent the voting power in ETHLocal: new technical and community proposals as well as ETHLocal curated hackathons and events requiring consensus mechanisms will be voted by LOCAL token holders, in proportion to their owned amount.
 ETHLocal DFO also allows the creation of sub-DFOs, each with their own voting tokens, that represent individual projects as well as one-time or recurring events like conferences, meetups and hackathons. Existing DFOs can become part of ETHLocal and ETHLocal itself could, theoretically, become a sub-DFO of other DFOs too. The voting power ratio between LOCAL and sub-DFO tokens will be established by a function yet to be designed and voted.
@@ -79,7 +86,7 @@ During every selling event, the circulating supply of LOCAL will increase by 500
 </br>
 **First Round of Grants**  
   
-After launching the first FIT (Fair inflation traction), by the end of 2020 ETHLocal will launch a first round of quadratic funding-based grants to support those grassroot projects who will have gained the wider support by the Ethereum community. These rounds of grants will most likely happen on a ETHLocal dedicated page, although we will always favor and foster collaborations with the Gitcoin Community and the Downtown Stimulus.
+By December 2020 ETHLocal will launch a first round of quadratic funding-based grants to support those grassroot projects who will have gained the wider support by the Ethereum community. These rounds of grants will most likely happen on a ETHLocal dedicated page, although we will always favor and foster collaborations with the Gitcoin Community and the Downtown Stimulus.
 </br>
 </br>
 </br>
