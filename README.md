@@ -22,12 +22,15 @@ Grassroot communities are restructuring production and society with the same int
 
 By re-discovering traditional paradigms of social organisation (e.g. urban gardens) and improving them with the use of innovative and open-source mechanism designs (e.g. Arduino chemical and weather control units), these players are helping establish new lifestyle paradigms. Unfortunately, sustainability projects around the world are too often limited to the societary and legislation frameworks of their region or country, making it difficult to reach wider pools of adopters and interact with twin initiatives. Thus, their focus ends up being placed entirely on impacting their local communities, while little or none is left to learn and harness the tools that, for example, Blockchain and Ethereum have to offer them in terms of funding, governance and business viability.
 <br>
-<strong>ETHLocal contributes to a "local adoption" pace to crypto, by breaking the "mass adoption" agenda into smaller use cases that can feed into pre-existing and self-sustainable social innovation environments.</strong>
+<br>
+**ETHLocal contributes to a "local adoption" pace to crypto, by breaking the "mass adoption" agenda into smaller use cases that can feed into pre-existing and self-sustainable social innovation environments.**
+<br>
 <br>
 By balancing on local hubs that have already impacted their territory, Ethereum will be able to strengthen its presence amongst diverse political environments, each with their own legal frameworks and bureaucratic constraints, test and improve partnerships with local public administrations and institutions.
 We find relevant examples of the importance of "going local" in France's complementary local currencies and Sardinia's SARDEX, a successful alt-coin project (established as early as 2009) meant to provide a compensation chamber for member-businesses who belonged to the same territory (and share the same offline trust network) in times of high mutual debting.<br>
 <br>
 **As a result to these considerations, ETHLocal's mission articulates itself around FIVE MAIN GOALS:<br>
+<br>
 A. Develop partnerships, assist OPS and fundraising around projects with a local and sustainability scope <br> 
 B. Organize and assist Ethereum events with a local Call <br>
 C. Empower a healthier financial status for those grassroot initiatives willing to approach <br>
@@ -40,6 +43,7 @@ collaborate with and build upon**
 </br>
  
 **Holacracy**  
+
 ETHLocal can be intended as part of a Ethereum wider holacracy, where every player acts upon a principle of self affirmation which is achievable only through the satisfaction of macro, collective purposes.
 ETHLocal places itself ideally as a crew-holon bridge between the Ethereum ecosystem and the lifestyle-challenging projects dedicated to spread sustainability awareness and build new sets of know-hows among fiat society players.
 
@@ -50,7 +54,7 @@ ETHLocal places itself ideally as a crew-holon bridge between the Ethereum ecosy
 **ETHLocal Decentralized Flexible Organization (DFO)
 and LOCAL Token**  
   
-ETHLocal's governance is based on a Decentralized Flexible Organization (NO INVESTMENT, PURE R&D) founded at dfohub.com The specific DFO structure setup allows ETHLocal to have all the basic features of a DAO without the constraints of a single ownership. It also allows modular micro-services to be applied to its governance system by direct implementation as well as importing from other DFOs.
+ETHLocal's governance is based on a Decentralized Flexible Organization (NO INVESTMENT, PURE R&D) founded at https://dfohub.com The specific DFO structure setup allows ETHLocal to have all the basic features of a DAO without the constraints of a single ownership. It also allows modular micro-services to be applied to its governance system by direct implementation as well as importing from other DFOs.
 10,000,000 LOCAL ERC20 Voting Tokens were created, 50% of which are held by ETHLocal DFO Wallet and 50% are kept as circulating supply for grants and genesis airdrops.
 LOCAL ERC20 tokens represent the voting power in ETHLocal: new technical and community proposals as well as ETHLocal curated hackathons and events requiring consensus mechanisms will be voted by LOCAL token holders, in proportion to their owned amount.
 ETHLocal DFO also allows the creation of sub-DFOs, each with their own voting tokens, that represent individual projects as well as one-time or recurring events like conferences, meetups and hackathons. Existing DFOs can become part of ETHLocal and ETHLocal itself could, theoretically, become a sub-DFO of other DFOs too. The voting power ratio between LOCAL and sub-DFO tokens will be established by a function yet to be designed and voted.
